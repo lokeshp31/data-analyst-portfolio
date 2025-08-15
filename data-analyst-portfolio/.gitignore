@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+env/
+venv/
+
+# Power BI
+*.pbix
+
+# OS
+.DS_Store
+Thumbs.db
