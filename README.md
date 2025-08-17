@@ -3,7 +3,9 @@
 Hands-on projects across **SQL, Power BI, and Python (pandas)** using a retail sales dataset.  
 Focus: data cleaning, KPI design (Sales, Profit, Margin, Orders, AOV), trend analysis, and state/segment performance.
 
-<img src="PowerBI-Dashboards/retail_sales/<screenshot.png>" alt="Retail Dashboard" width="800"/>
+![Sales by State](PowerBI-Dashboards/retail_sales/sales_by_state.png)
+![Sales by Category](PowerBI-Dashboards/retail_sales/sales_by_category.png)
+![Monthly Sales Trend](PowerBI-Dashboards/retail_sales/monthly_sales_trend.png)
 
 **Highlights**
 - 10+ SQL analytics queries (aggregations, window functions, AOV, contribution %)
