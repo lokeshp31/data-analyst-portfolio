@@ -18,6 +18,15 @@ This repo aggregates three mini-projects that demonstrate core Data Analyst skil
 - Time trends and seasonality
 - Profit margin vs. volume tradeoffs
 - AOV and order distribution
+  
+## 📊 Insights (Retail Sales)
+
+- **Total Performance:** Total Sales, Total Profit, and Average Order Value were calculated with DAX + Python validation.
+- **Category Mix:** Technology generates the highest revenue, while Office Supplies keeps margins steady.
+- **Geography:** A small group of states (e.g., California, Texas, New York) contribute most sales → highlight regional opportunities.
+- **Trend:** Sales are inconsistent month to month, suggesting seasonal factors. Promotions could help stabilize slow months.
+- **Customer Segments:** Corporate and Consumer segments show different profit patterns → targeted discounts are more effective.
+
 
 ## Next Steps
 - Add a second dataset (e.g., customer churn, marketing campaign)
